@@ -1,4 +1,7 @@
-# GoreeCloud Router OS — Feature Roadmap
+# GoreeCloud Router OS — Planned Features
+
+> **Authority:** Repository-native planned-feature record  
+> **Migration:** Replaces the retired `FEATURE-ROADMAP.md` / Google Drive roadmap controls. GitHub is the sole feature-state authority.
 
 Status values in this file describe repository work, not product release acceptance.
 
